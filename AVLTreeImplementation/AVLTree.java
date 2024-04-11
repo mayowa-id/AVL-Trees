@@ -80,10 +80,10 @@ public class AVLTree {
                     newRoot.leftNode.value > newRoot.value) {
                 root = newRoot.rightNode;
                 newRoot.rightNode = root.leftNode;
-            } else if (newRoot.rightNode.value < root.value &&
-                    newRoot.rightNode.value < newRoot.value) {
+            } else if (newRoot.rightNode.value > root.value &&
+                    newRoot.rightNode.value > newRoot.value) {
                 root = newRoot.rightNode;
-                newRoot.leftNode = root.leftNode;
+                newRoot.rightNode = root.rightNode;
             }
         }else {
             root = newRoot.rightNode;
