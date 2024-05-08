@@ -14,6 +14,8 @@ There are two operations to rebalance a tree:
 Right rotation  and
 Left rotation.
 
-The Right rotation is effected on a left skewed Tree and it is implemented in this code base as 
+The Right rotation is effected on a left skewed Tree and it is implemented in this code base as rightRotation().
+The Left rotation is effected on a rightt skewed Tree and it is implemented in this code base as leftRotation().
 
-The Left rotation is effected on a rightt skewed Tree and it is implemented in this code base as 
+The both methids are utilised in the avlBalance() method and are applied in required situations. 
+
