@@ -1,4 +1,4 @@
-# AVL-Trees
+# AVL-TREES
 
 Georgy Adelson-Velsky and Evgenii Landis
 
