@@ -19,3 +19,14 @@ The Left rotation is effected on a rightt skewed Tree and it is implemented in t
 
 The both methids are utilised in the avlBalance() method and are applied in required situations. 
 
+The following are benefits of AVL Trees: 
+It also provides faster search operations: The most important benefit of AVL trees is that they perform faster search operations than Binary Search Trees
+
+Insertion and Deleting of Nodes also run in lower/faster runtime complexity.
+
+AVL Trees can be applied in the following ways: 
+-AVL Trees can be applied in Dictionaries, and other check and confirmation books/logs. 
+-Indexing large amounts of data in a database and to search through it efficiently.
+-Applications for databases where insertions and deletions are infrequent but frequent data searches are necessary.
+-Software that requires improved search.
+-Can be used in corporate settings and storyline games
