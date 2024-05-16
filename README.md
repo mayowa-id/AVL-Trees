@@ -1,7 +1,5 @@
 # AVL-TREES
 
-Georgy Adelson-Velsky and Evgenii Landis
-
 AVL Trees are named after the inventors:Georgy Adelson-Velsky and Evgenii Landis,.
 An AVL Tree can be defined as a self-balancing binary search tree (BST) a such that upon insertion of a new node
 or removal of an existing node, it balances itself in terms of height. 
